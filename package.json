@@ -58,7 +58,7 @@
     "configPath": "tests/dummy/config",
     "fastbootDependencies": [
       "node-fetch",
-      "abortcontroller-polyfill/dist/cjs-ponyfill"
+      "abortcontroller-polyfill/dist/cjs-ponyfill.js"
     ]
   }
 }
